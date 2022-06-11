@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "picture": "https://media.istockphoto.com/photos/modern-room-with-multi-detector-spiral-ct-scanner-medical-technology-picture-id1292768526?b=1&k=20&m=1292768526&s=170667a&w=0&h=laa57MIhaYG5cndK3P2KYdIEIegIq_pabednHZwnZs4=",
+        "name": "Spiral CT Scan",
+        "cost": 6500,
+        "consultant": "Kazi Maruf",
+        "about": "A procedure that uses a computer linked to an x-ray machine to make a series of detailed pictures of areas inside the body. Spiral CT uses a faster machine that spins continuously around the body. This allows it to more quickly detect images and spot problems. It can also detect small nodules (early-stage lung disease) that cannot be clearly seen on chest x-rays.\r\n"
+    },
+    {
+        "id": 2,
+        "picture": "https://images.unsplash.com/photo-1579154491781-5e199df316aa?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmVuYWwlMjBiaW9wc3l8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "name": "Renal Biopsy",
+        "cost": 8460,
+        "consultant": "Monica Jenner",
+        "about": "Renal biopsy is a medical procedure in which a small piece of kidney is removed from the body for examination, usually under a microscope. Microscopic examination of the tissue can provide information needed to diagnose, monitor or treat problems of the kidney.\r\n"
+    },
+    {
+        "id": 3,
+        "picture": "https://media.istockphoto.com/photos/dental-xray-with-braces-orthopantomography-opg-xray-dr-digital-for-picture-id1316498304?b=1&k=20&m=1316498304&s=170667a&w=0&h=SFwdj5DUmKJWPofWMLIRPTff09_jSzYOE6Ib2QR6z_4=",
+        "name": "OPG",
+        "cost": 12000,
+        "consultant": "Maria Hussain",
+        "about": "An OPG is a panoramic X-ray of the upper and lower jaws, including the teeth. The OPG unit is specifically designed to rotate around the patient's head during the scan. An OPG will take approximately 20 seconds. An OPG can be used to look for Fractures.\r\n"
+    },
+    {
+        "id": 4,
+        "picture": "https://media.istockphoto.com/photos/blood-samples-being-arranged-for-processing-picture-id1193974989?b=1&k=20&m=1193974989&s=170667a&w=0&h=fGWrgIIz_s1my5O-QeVQuRygDJZWiBGWXgdWVrdGgGU=",
+        "name": "Immunology",
+        "cost": 5500,
+        "consultant": "Abdul Hannan",
+        "about": "An allergist / immunologist (commonly referred to as an allergist) is a physician specially trained to diagnose, treat and manage allergies, asthma and immunologic disorders including primary immunodeficiency disorders.\r\n"
+    },
+    {
+        "id": 5,
+        "picture": "https://media.istockphoto.com/photos/closeup-shot-of-a-monitor-with-ekg-data-male-athlete-runs-on-a-with-picture-id925425730?b=1&k=20&m=925425730&s=170667a&w=0&h=sCOoaDw93eS2SFN7FnmSTxhQZc3lSyWt94de0ONl7Fs=",
+        "name": "ECG",
+        "cost": 3500,
+        "consultant": "Usman Yusuf",
+        "about": "An electrocardiogram (ECG) is a simple test that can be used to check your heart's rhythm and electrical activity. Sensors attached to the skin are used to detect the electrical signals produced by your heart each time it beats.\r\n"
+    },
+    {
+        "id": 6,
+        "picture": "https://media.istockphoto.com/photos/doctor-looking-at-ultrasonography-of-baby-picture-id1288948143?b=1&k=20&m=1288948143&s=170667a&w=0&h=4-n42V0WoUpbiQP5QJzCKES1vUM0eRxVStUXIiYGrOc=",
+        "name": "Ultrasonography",
+        "cost": 9500,
+        "consultant": "Saima Mazhar",
+        "about": "Medical ultrasound is a diagnostic imaging technique based on the application of ultrasound. It is used to create an image of internal body structures such as tendons, muscles, joints, blood vessels, and internal organs. Its aim is often to find a source of a disease or to exclude pathology.\r\n"
+    }
+]

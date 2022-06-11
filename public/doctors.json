@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "picture": "https://images.unsplash.com/photo-1582750433449-648ed127bb54?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGRvY3RvcnN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "name": "Abdul Hannan",
+        "charge": 1800,
+        "specialities": "Haematology",
+        "practice-days": "Tuesday , Saturday, Sunday"
+    },
+    {
+        "id": 2,
+        "picture": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGRvY3RvcnN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "name": "Usman Yusuf",
+        "charge": 1500,
+        "specialities": "Cardilogist",
+        "practice-days": "Tuesday , Saturday , Monday"
+    },
+    {
+        "id": 3,
+        "picture": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGRvY3RvcnN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "name": "Kazi Maruf",
+        "charge": 2000,
+        "specialities": "Neuro Surgery",
+        "practicedays": "Tuesday , Saturday , Monday"
+    },
+    {
+        "id": 4,
+        "picture": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGRvY3RvcnN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "name": "Maria Hussain",
+        "charge": 1300,
+        "specialities": "Dental Surgery",
+        "practicedays": "Saturday , Monday , Sunday"
+    },
+    {
+        "id": 5,
+        "picture": "https://images.unsplash.com/photo-1623854767648-e7bb8009f0db?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGRvY3RvcnMlMjBwcmFjdGljZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "name": "Saima Mazhar",
+        "charge": 1080,
+        "specialities": "Gynaecology",
+        "practicedays": "Tuesday ,Sunday"
+    },
+    {
+        "id": 6,
+        "picture": "https://media.istockphoto.com/photos/team-of-doctors-and-nurses-in-hospital-picture-id1307543618?b=1&k=20&m=1307543618&s=170667a&w=0&h=hXpYmNYXnhdD36C-8taPQvdpM9Oj-woEdge8nvPrsZY=",
+        "name": "Dipon Kumar",
+        "charge": 800,
+        "specialities": "Chest Medicine",
+        "practicedays": "Wednesday , Monday , Sunday"
+    },
+    {
+        "id": 7,
+        "picture": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZG9jdG9yc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "name": "Salsa",
+        "charge": 750,
+        "specialities": "Pediatric Surgery",
+        "practicedays": "Tuesday , Monday , Sunday"
+    },
+    {
+        "id": 8,
+        "picture": "https://media.istockphoto.com/photos/portrait-of-middle-aged-asian-female-doctor-standing-in-hospital-picture-id1271328839?b=1&k=20&m=1271328839&s=170667a&w=0&h=SIMzwoe8eu43OoY4M3ElZCMxW9MgDbZbVzMhh4VY2zM=",
+        "name": "Monica Jenner",
+        "charge": 1100,
+        "specialities": "Breast, Colorectal & Laparoscopy Surgery",
+        "practicedays": "Tuesday , Saturday , Monday , Sunday"
+    }
+]
